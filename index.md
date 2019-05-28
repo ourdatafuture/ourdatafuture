@@ -334,10 +334,10 @@ Don’t know exactly what the first step can be? Here are some suggestions:
 
 2. Start a data rights hub in your community.
 
-  - There are a few discussion forums that are spending time thinking about what happens next and how to address our data challenges. There’s the My Data community (slack channel here) and the ResponsibleData.io mailing list.
+    - There are a few discussion forums that are spending time thinking about what happens next and how to address our data challenges. There’s the My Data community (slack channel here) and the ResponsibleData.io mailing list.
 
-  - There are also well-intentioned initiatives such as  RadicalxChange, but there might be some aspects that they promote that need a deeper reflection.
+    - There are also well-intentioned initiatives such as  RadicalxChange, but there might be some aspects that they promote that need a deeper reflection.
 
-  - Another example is the DECODE Project.
+    - Another example is the DECODE Project.
 
 3. Your creative skills are needed for spreading the data discussion more broadly. Reach out at [valentinap@privacyinternational.org](mailto:valentinap@privacyinternational.org) if you want to contribute to building a toolkit to make it easier for your friends and neighbours and for the world to engage with the topic. We could really benefit from bringing this topic to a larger community!
