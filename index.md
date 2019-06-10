@@ -355,4 +355,4 @@ Don’t know exactly what the first step can be? Here are some suggestions:
 
     - Another example is the DECODE Project.
 
-3. Your creative skills are needed for spreading the data discussion more broadly. Reach out at [valentinap@privacyinternational.org](mailto:valentinap@privacyinternational.org) if you want to contribute to building a toolkit to make it easier for your friends and neighbours and for the world to engage with the topic. We could really benefit from bringing this topic to a larger community!
+3. Your creative skills are needed for spreading the data discussion more broadly. Reach out to [valentinap@privacyinternational.org](mailto:valentinap@privacyinternational.org) if you want to contribute to building a toolkit to make it easier for your friends and neighbours and for the world to engage with the topic. We could really benefit from bringing this topic to a larger community!
