@@ -7,36 +7,40 @@ We live in a world of hyper progress. Things are changing very much, very fast. 
 
 ## Here’s where we start off
 
-Our digital habitat is at a crossroads. There are challenges we need to address - like erosion of privacy and centralization of power, but there are also bright spots. We have amazing technology, and in Europe people have stronger privacy and data protection benchmark with the [GDPR](https://eur-lex.europa.eu/eli/reg/2016/679/oj) - and, most importantly, the power to unite and transform. The Internet is can be a collective of action driven critical thinkers. We can take our destiny into our own hands and together we can change everything.
+Our digital habitat is at a crossroads. There are challenges we need to address - like erosion of privacy and centralization of power, but there are also bright spots. We have amazing technology, and in Europe people have stronger privacy and data protection benchmark with the [GDPR](https://eur-lex.europa.eu/eli/reg/2016/679/oj) and there are efforts to strengthen data protection and privacy laws in countries around the world - today more countries have some form of data protection than don't. But most importantly, we have the power to unite and transform. The Internet can be a collective of action driven critical thinkers. We can change the course of our path. The future is not a given, our actions and decisions take us where we want to go.
 
 In today's digital environment, here’s what we're not ok with:
 
 
-## Data monopolies, surveillance and censorship
+## Data monopolies and surveillance
 
-First, we - individual Internet users - don't like data monopolies. Big tech companies harvest our data on a massive scale,  for their own interests. They are the new feudal lords, exploiting all our information. To surveil, predict and automate are [their new aspirations](https://www.vox.com/2019/3/27/18220373/google-facebook-big-tech).
+First, we don't like data monopolies. Big tech companies harvest our data on a massive scale, for their own interests. They are the new feudal lords, exploiting all our information. To surveil, predict and automate are [their new aspirations](https://www.vox.com/2019/3/27/18220373/google-facebook-big-tech).
 
-Surveillance machines like *Alexa* and *Google Assistant* have now entered into our homes. They [listen very carefully](https://www.bloomberg.com/news/articles/2019-04-10/is-anyone-listening-to-you-on-alexa-a-global-team-reviews-audio) to what we say, and they watch very closely what we do.
+Surveillance machines like *Alexa* and *Google Assistant* have now entered into our homes. They [listen very carefully](https://www.bloomberg.com/news/articles/2019-04-10/is-anyone-listening-to-you-on-alexa-a-global-team-reviews-audio) to what we say, and they watch very closely what we do. 
+
+Mobile devices travel with us everywhere we go, extracting and sharing data about our every move. Publicly and privately, we are being watched.   
  
 
 ## Things happening behind our backs
 
-It’s not just the data we knowingly generate - such as photos or posts on social media - that gets harvested. It’s also data we indirectly generate: our location history, browsing activity, what devices we use and lots more information that has been derived, inferred or predicted from other sources. For example, from my browsing patterns, companies can predict my gender, income, number of children, my shopping habits, interests, and insights about my social life. While in Europe, the GDPR allows me to get access to all the data that online tracking companies collect, in most other places, [I can’t](https://privacyinternational.org/feature/2433/i-asked-online-tracking-company-all-my-data-and-heres-what-i-found).
+It’s not just the data we knowingly generate - such as photos or posts on social media - that gets harvested. It’s also the data we indirectly generate: our location history, browsing activity, what devices we use and lots more information that has been derived, inferred or predicted from other sources. For example, from my browsing patterns, companies can predict my gender, income, number of children, my shopping habits, interests, and insights about my social life. While in many countries data protection laws allow me to get access to all the data that online tracking companies collect, in most other places, [I can’t](https://privacyinternational.org/feature/2433/i-asked-online-tracking-company-all-my-data-and-heres-what-i-found). But things are not that easy. Even in the places where I can access data about me, first I need to know which company is collecting data. It's not a surprize that often times I am left unaware of the pervasive tracking. If I do find out, asking the company for access to data, is not a trivial task. It might be full of obstacles and difficulties - some intentional, some because of badly designed processes.
 
 > We want human centric technology and we want transparency and respect.
 
-## Restrictions on free expression
+## Restrictions on freedom of expression
 
-Internet platforms limit our freedoms on an unprecedented scale. They monitor and decide what content is allowed on their apps and websites. They serve as the Internet police, building algorithms that decide what content is legal and what isn’t. What’s worse, in Europe, the power for platforms to censor even more is now enshrined into law. [A new copyright law](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2019.130.01.0092.01.ENG) was adopted in March 2019 that gives platforms the power to surveil, censor and dictate how individual users express and communicate with each other.
+Internet platforms limit our freedoms at an unprecedented scale. They monitor and decide what content is allowed on their apps and websites. They serve as the Internet police, building algorithms that decide what content is legal and what isn’t. What’s worse, in Europe, the power of platforms to restrict our freedoms is now enshrined into law. [A new copyright law](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2019.130.01.0092.01.ENG) was adopted in March 2019 that forces on platforms the power to surveil, censor and dictate how we express and communicate with each other online.
 
 ## "Free" services 
-We don't believe in free services anymore - we know our data is exploited. Abusive data practices are used to track, target and influence our behaviour and opinions. In 2018, Cambridge Analytica showed us how this practice can undermine democratic processes and weaken democracies. 
+We don't believe in "free" services anymore - we know our data is being exploited. Abusive data practices are used to track, target and influence our behaviour and opinions. In 2018, Cambridge Analytica showed us how this practice risks undermining democratic processes and weakening democracies. 
+
+This is not to say that the solution to "free" services is paying for privacy enhanced products. Payment should not be the criteria for privacy. And ata exploitation should not be the pretext for companies offering "free" services. 
 
 > We want control, choice and freedom. 
 
 
 How? Here’s where our journey begins.
-Below are four possible future scenarios. They’re presented through the eyes of Amtis, a fictional AI avatar representing an everyday internet user.
+Below are four possible future scenarios. They’re presented through the eyes of Amtis, a fictional avatar representing an everyday internet user.
 
 Amtis traveled forward in time and found four different futures: one where data is treated like property and data markets are created; one where people are paid for data as labour; one where data is stored in nationalized funds; and one where users have clear rights concerning their data.
 
@@ -60,7 +64,7 @@ Data ownership was a new concept for everybody, and most of us put a lot of fait
 
 ## First you have to prove ownership over data
 
-Just like in May 2018 when the General Data Protection Regulation (GDPR) came into force, I am now flooded with notifications from companies asking either to confirm ownership over my data - or to sell it to them. The system worked like this: if I didn/t want to recognize the data as my own property, I could sell it and the buyer would automatically receive ownership status over that data.
+Just like in May 2018 when the General Data Protection Regulation (GDPR) came into force, I am now flooded with notifications from companies asking either to confirm ownership over my data - or to sell it to them. The system worked like this: if I didn't want to recognize the data as my own property, I could sell it and the buyer would automatically receive ownership status over that data.
 
 All these messages are mostly from subsidiaries of AllDataCorp (ADC) which has already amassed the largest silo of user profile data on the planet. The governments tried to push back and adopted a new law forcing ADC to process only data with clear ownership status. The penalty is dissolution so now ADC must clean up any dirty data they have harvested. But there’s a catch. 
 
@@ -76,13 +80,13 @@ ADC’s DataBrain SystemTM assessed my total worth at $99.36. It’s probably ca
 
 *--- There’s an even more troubling follow up in Amtis’ journal. If you’re looking for something bleak, this is it.*
 
-In the end, people got very angry and protested in a very scary way. Desperation grew and grew and more extreme models were proposed. 
+In the end, people got very angry and protested in a very scary way (see below). Desperation grew and grew and more extreme models were proposed. 
 
 ## From individuals to Incorporated Persons
 
-Take for example Jennifer [Lyn Morone](http://jenniferlynmorone.com/). She was an art student when she incorporated herself as a business in sign of protest. She became Jennifer Lyn Morone, Inc. She believed that *“the data a person creates should be considered their property: it has a monetary value in the economic system that our lives are structured around. So I see data as a resource that people create and that is currently being exploited” and “if people have ownership and control of their data they should be the ones compensated for it, not other companies.”*
+Take for example [Jennifer Lyn Morone](http://jenniferlynmorone.com/). She was an art student when she incorporated herself as a business in sign of protest. She became Jennifer Lyn Morone, Inc. She believed that *“the data a person creates should be considered their property: it has a monetary value in the economic system that our lives are structured around. So I see data as a resource that people create and that is currently being exploited” and “if people have ownership and control of their data they should be the ones compensated for it, not other companies.”*
 
-Politicians started to encourage this model of Incorporated Persons as an alternative to social welfare and other public service “burdens” operated by the state. Legal entities don’t need social security.
+Politicians started to encourage this model of Incorporated Persons as an alternative to social welfare and other public service “burdens” operated by the state. Legal entities don’t need social security. 
 
 What initially started as a protest, now became common practice. It wasn’t easy to start Your Name, Inc. You needed legal, entrepreneurial and technical skills to run your company. So this model was more popular with middle class, educated people that were able to sustain this effort. The advantage was that your identity, name, IP address and every bit of data you created was your company/s property. This became the most effective solution for people to start owning their data and making money from it. 
 
@@ -100,7 +104,7 @@ ADC thought of everything to make it easier for everybody to exchange data - be 
 
 ## Time-locked subscriptions for data
 
-As an alternative model, some small enclaves unionised and managed to get a slightly better deal from ADC. They forced the company to buy time-locked subscriptions to their data, that were valid only for a limited period of time. But this is also very profitable for ADC and partners, as this ensures them a continuous stream of data for which they pay a mediocre monthly sum. Of course, if you became irrelevant to them, they would simply stop the subscription without explanation or any notice. The balance of power is still very much in their favour.
+As an alternative model, some small enclaves unionised and managed to get a slightly better deal from ADC. They forced the company to buy temporary subscriptions to their data, that were valid only for a limited period of time. But this is also very profitable for ADC and partners, as this ensures them a continuous stream of data for which they pay a mediocre monthly sum. Of course, if you became irrelevant to them, they would simply stop the subscription without explanation or any notice. The balance of power is still very much in their favour.
 
 *--- Amtis added a few more thoughts on what was going on:*
 
@@ -125,9 +129,9 @@ Attaching ownership rights to data is particularly problematic. Due to the natur
 
 Amtis only briefly hinted at it, but I don’t think there’s an easy consensus on what it is exactly that I could own. Is it my bank and credit statement, my smart meter reading, the GPS coordinates? How about my picture with my friends and family? If they are in the picture, do they own it too? What happens in the case of genetic data? It also contains information about my family, so if I reveal it, will my family also have ownership rights over it? My future children and grandchildren, too? Data about me is also data about other people.
 
-Also, what happens to the data about me that is generated without my knowledge? Would this be covered too? 
+Also, what happens to the data about me that is generated,derived, inferred and predicted without my knowledge? Would this be covered too? 
 
-Designing a system of data ownership rights, would require a classification and inventory of all possible data types that can be owned, along with their state (e.g., data in transit, data in storage). Questions would include: What is the data that we assign ownership rights to? Is it the data that is being collected, or analysed, or aggregated, or the data that is being profiled? Would data in transit be owned as well, or only data that is already stored somewhere? Would the same data have multiple owners as in the examples above? 
+Designing a system of data ownership rights, would require a classification and inventory of all possible data types that can be owned, along with their state (e.g., data in transit, data in storage). Questions would include: What is the data that we assign ownership rights to? Is it the data that is being collected, or analysed, or aggregated, or the data that is being profiled? Would data in transit be owned as well, or only data that is already stored somewhere? Would the same data have multiple owners as in the examples above? Who would have control and access to this system? Would it be global, regional or national? How would it work as we and our data move around the globe?
 
 ### Ownership is not compatible with the nature of data
 
@@ -135,17 +139,17 @@ Here’s a legal argument to keep in mind. Intellectual property rights may seem
 
 But let’s say we are doing something with the data. Let’s say we are collecting it in a database and this takes quite a lot of effort and resources. In the case of EU law, the protection applies to the creation of the database, not the data entries themselves. More specifically, the resources invested in making the database are the object of protection, not the creation of a database in itself. This is called a sui generis right, different from copyright and data protection. See [CJEU case C-203/02, British Horseracing Board vs Hill, 2004](http://curia.europa.eu/juris/document/document.jsf?text=&docid=49633&pageIndex=0&doclang=EN&mode=lst&dir=&occ=first&part=1&cid=144600)
 
-Similarly, if we discuss compilations (such as an anthology for example), the protection lies with the originality of selection and arrangement of information - it does not protect the individual elements that make the compilation. A compilation would be protected under copyright law.
+Similarly, if we discuss compilations (such as an anthology for example), the protection lies with the originality of selection and arrangement of information - it does not protect the individual elements that make the compilation. A compilation would be protected under copyright law. 
 
 
 ### Data markets in practical terms.
 
-Let's imagine we somehow figured out all the questions related to ownership. Then we still need to consider the practical aspects of a data market. Let’s say in an ownership system, some individuals would presumably sell their data. Who is going to set the price? Based on what criteria? Am I going to have equal negotiation power? How would the money actually be transferred in practice? Will I need to spend time brokering or auctioning data? Where would I go if I am not satisfied? Will I spend my time monitoring companies to make sure they actually respect the contractual agreement? Will I go to court if they don’t, and spend years awaiting for a resolution? Also, how would consent would be managed without producing decision exhaustion? Will we need to give instructions to our own bidding bots? Data ownership puts a lot of burden and responsibility on the individual to manage all data exchanges. Does this really mean more control?
+Let's imagine we somehow figured out all the questions related to ownership. Then we still need to consider the practical aspects of a data market. Let’s say in an ownership system, some individuals would presumably sell their data. Who is going to set the value and price? Based on what criteria? Am I going to have equal negotiation power? How would the money actually be transferred in practice? Will the price flutuate depending on the markets in different countries and currencies? Will I need to spend time brokering or auctioning data? Would I need to pay for advice? Where would I go if I am not satisfied? Will I spend my time monitoring companies to make sure they actually respect the contractual agreement? Will I go to court if they don’t, and spend years awaiting for a resolution? Also, how would consent would be managed without producing decision exhaustion? Will we need to give instructions to our own bidding bots? Data ownership puts a lot of burden and responsibility on the individual to manage all data exchanges. Does this really mean more control?
 
 Additionally, if I start selling data, companies would have very little incentive to promote any form of data transfers or portability from one service to the other, as they will be heavily invested in buying data. If we aren’t able to pull data from one company and move it to another in an easy way, we will just get trapped in the same corporate walled gardens of today. We won’t be able to complain to companies if we are dissatisfied.  What’s more, start ups and small companies would still rely on large investments in order to be able to compete with big companies when buying data. Regulating licensing of data would be extremely difficult and startups would be loyal to their investors, not to innovation and/or social good.
 
 
-# Scenario 2 – Data labor 
+# Scenario 2 – Data labour 
 
 ![Data labor future](img/sketch_2.png "Data labor future")
 
@@ -218,7 +222,7 @@ Needless to add here, information that I am okay with sharing (or selling) today
 
 ### Human beings instead of human doings
 
-In the end, do we really want to monetize all aspects of our lives? Will this bring us well-being and social self-determination? Do we want to define ourselves by what we do or by what we are? And more importantly, how can we make things better if everybody will still be looking for more and more financial gain? If we want to set ourselves up for a better future, we should probably look for ways how to [reduce wide-spread monetization of our lives](http://autonomy.work/wp-content/uploads/2018/05/Nick-Christine-Social-wealth.pdf).
+In the end, do we really want to monetize all aspects of our lives? Will this bring us well-being and social self-determination? Do we want to define ourselves by our data (generated for others) or by who we are? And more importantly, how can we make things better if everybody will still be looking for more and more financial gain? If we want to set ourselves up for a better future, we should probably look for ways how to [reduce wide-spread monetization of our lives](http://autonomy.work/wp-content/uploads/2018/05/Nick-Christine-Social-wealth.pdf).
 
 
 # Scenario 3 – National Data Funds
