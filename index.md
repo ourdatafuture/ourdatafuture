@@ -204,9 +204,9 @@ Here’s what I make out of this story on a more objective and critical level. I
 
 It seems like monopolies are not solvable through a data labour system. Monopolies don’t simply disappear, even if they start paying people wages - they adapt and persist. A market for data is very complicated to achieve in practical terms, but there are other reasons why this model may not be what we are looking for. 
 
-A data labour system runs on people fuelling in data from all possible sources. This deepens the gap between the poor and the rich and it encourages inequality. While the rich will afford not to sell their data, the rest will be vulnerable, exposed and struggling for survival. This looks much more like digital feudalism rather than individual empowerment. 
+A data labour system runs on people fuelling in data from all possible sources. This deepens the gap between the poor and the rich and it encourages inequality. While the rich will afford not to sell their data, the rest will be vulnerable, exposed and would give in more easily to exploitative systems. This looks much more like digital feudalism rather than individual empowerment. 
 
-But the discussion goes beyond inequality. In a future where data labour is used to improve feed and train AI services applied in all aspects of our lives – from decision making about the way we govern ourselves, to our legal system, education and immigration – nobody will win in the long run.
+But the discussion goes beyond inequality. In a future where data labour is used to feed and train AI services applied in all aspects of our lives – from decision making about the way we govern ourselves, to our legal system, education and immigration – nobody will win in the long run.
 
 ### More tracking means more money
 
