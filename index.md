@@ -14,7 +14,7 @@ In today's digital environment, here’s what we're not ok with:
 
 ## Data monopolies and surveillance
 
-First, we don't like data monopolies. Big tech companies harvest our data on a massive scale, for their own interests. They are the new feudal lords, exploiting all our information. To surveil, predict and automate are [their new aspirations](https://www.vox.com/2019/3/27/18220373/google-facebook-big-tech).
+First, we don't like data monopolies. Big tech companies harvest our data on a massive scale, for their own interests. They are the new feudal lords, exploiting all our information. To surveil, predict and automate are [their new aspirations](https://www.vox.com/2019/3/27/18220373/google-facebook-big-tech). (add PI resource if available)
 
 Surveillance machines like *Alexa* and *Google Assistant* have now entered into our homes. They [listen very carefully](https://www.bloomberg.com/news/articles/2019-04-10/is-anyone-listening-to-you-on-alexa-a-global-team-reviews-audio) to what we say, and they watch very closely what we do. 
 
@@ -32,11 +32,11 @@ It’s not just the data we knowingly generate - such as photos or posts on soci
 Internet platforms limit our freedoms at an unprecedented scale. They monitor and decide what content is allowed on their apps and websites. They serve as the Internet police, building algorithms that decide what content is legal and what isn’t. What’s worse, in Europe, the power of platforms to restrict our freedoms is now enshrined into law. [A new copyright law](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2019.130.01.0092.01.ENG) was adopted in March 2019 that forces on platforms the power to surveil, censor and dictate how we express and communicate with each other online.
 
 ## "Free" services 
-We don't believe in "free" services anymore - we know our data is being exploited. Abusive data practices are used to track, target and influence our behaviour and opinions. In 2018, Cambridge Analytica showed us how this practice risks undermining democratic processes and weakening democracies. 
+We don't believe in "free" services anymore - we know our data is being exploited. Abusive data practices are used to track, target and influence our behaviour and opinions. In 2018, Cambridge Analytica showed us how this practice risks undermining democratic processes and weakening democracies. (add link to PI resources)
 
-This is not to say that the solution to "free" services is paying for privacy enhanced products. Payment should not be the criteria for privacy. And ata exploitation should not be the pretext for companies offering "free" services. 
+This is not to say that the solution to "free" services is paying for privacy enhanced products. Payment should not be the criteria for privacy. And companies offering "free" services should not mask data exploitation practices. 
 
-> We want control, choice and freedom. 
+> We want autonomy, choice and freedom. 
 
 
 How? Here’s where our journey begins.
