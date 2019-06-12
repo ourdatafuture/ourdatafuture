@@ -100,7 +100,7 @@ We are now a world of Human Corporations, functioning within a different type of
 
 ## Real time bidding architecture for selling data
 
-ADC thought of everything to make it easier for everybody to exchange data - be it individuals or incorporated person. They set up a real-time bidding system which works like this: your data feeds straight into their platforms and you can immediately start to auction it. The AI behind the bidding platform analyzes how others have sold similar data points and adjusts the price accordingly. Depending on your choice, you can either set the system to automatically sell your data, or to stay pending until you click “I agree” for it to be sold. Except for very few exchanges between People Inc. themselves, 98% of the total transactions were bought by ADC. You could be poor, rich, or somewhere in the middle, no one escaped ADC’s data harvesting. 
+ADC thought of everything to make it easier for everybody to exchange data - be it individuals or incorporated person. They set up a real-time bidding system which works like this: your data feeds straight into their platforms and you can immediately start to auction it. The AI behind the bidding platform analyzes how others have sold similar data points and adjusts the price accordingly. Depending on your choice, you can either set the system to automatically sell your data, or to stay pending until you click “I agree” for it to be sold. Except for very few exchanges between People Inc. themselves, 98% of the total transactions were bought by ADC. You could be poor, rich, or somewhere in the middle, but no one escapes ADC’s data harvesting. 
 
 ## Time-locked subscriptions for data
 
@@ -141,7 +141,6 @@ But let’s say we are doing something with the data. Let’s say we are collect
 
 Similarly, if we discuss compilations (such as an anthology for example), the protection lies with the originality of selection and arrangement of information - it does not protect the individual elements that make the compilation. A compilation would be protected under copyright law. 
 
-
 ### Data markets in practical terms.
 
 Let's imagine we somehow figured out all the questions related to ownership. Then we still need to consider the practical aspects of a data market. Let’s say in an ownership system, some individuals would presumably sell their data. Who is going to set the value and price? Based on what criteria? Am I going to have equal negotiation power? How would the money actually be transferred in practice? Will the price fluctuate depending on the markets in different countries and currencies? Will I need to spend time brokering or auctioning data? Would I need to pay for advice? Where would I go if I am not satisfied? Will I spend my time monitoring companies to make sure they actually respect the contractual agreement? Will I go to court if they don’t, and spend years awaiting for a resolution? Also, how would consent would be managed without producing decision exhaustion? Will we need to give instructions to our own bidding bots? Data ownership puts a lot of burden and responsibility on the individual to manage all data exchanges. Does this really mean more control?
@@ -161,7 +160,7 @@ These days, fewer and fewer people go to work in an actual office. Everything ha
 
 ## Shit money, literally
 
-Last month I enabled the “health” addon, so now the device is counting how frequently I go to the toilet and it connects to the sensors in the washroom to collect data about my pee and my poop. This data is sent to pharmaceutical companies so they can make better drugs. Maybe I'll help cure the world from urinary infections, prostate disorders, digestion problems and haemorrhoids. Every now and then I'm tempted to make a bad joke about shit money, but health data pays better than most others types, so I’ll shut up.
+Last month I enabled the “health” addon, so now the device is counting how frequently I go to the toilet and it connects to the sensors in the toilet to collect data about my pee and my poop. This data is sent to pharmaceutical companies so they can make better drugs. Maybe I'll help cure the world from urinary infections, prostate disorders, digestion problems and haemorrhoids. Every now and then I'm tempted to make a bad joke about shit money, but health data pays better than most others types, so I’ll shut up.
 
 You know what else pays well? My “entertainment” data. I get bonuses for more juicy data such as my heart rate, eyeball movement and perspiration amount when I watch movies, hear an audiobook, play games or read articles. Data associated with political media pay even better. Now that I learned this trick, my behaviour changed a lot. I am watching all the movies recommended in my Playbor, I am frenetically consuming political articles, and trying to produce as much health related data as possible. My life and actions are all about how good they pay.
 
