@@ -207,6 +207,8 @@ A data labour system runs on people fuelling in data from all possible sources. 
 
 But the discussion goes beyond inequality. In a future where data labour is used to feed and train AI services applied in all aspects of our lives – from decision making about the way we govern ourselves, to our legal system, education and immigration – nobody will win in the long run.
 
+And who knows, maybe in the near future machines will learn from each other and there will not be the need for people to train and feed them data. Machine to machine learning might replace the human input AI services rely on, but today, as a Google employee puts it, ["Artificial intelligence is not that artificial; it’s human beings that are doing the work.”] (https://www.theguardian.com/technology/2019/may/28/a-white-collar-sweatshop-google-assistant-contractors-allege-wage-theft)
+
 ### More tracking means more money
 
 It’s true that data labour might be able to solve the problem of indirect data (e.g. data that you don’t know is extracted about you). But I am not sure this is the solution we are looking for. As all human actions, emotions and byproducts could potentially be monetized or labeled as labour, there was no more need for people to ask for transparency. In Amtis’ story, people already knew that tracking and sensitive information was going to bring them more money. There are no more abuses and exploitative practices because we put a price tag on them and thus we acknowledged them and provided them legitimacy. 
