@@ -1,6 +1,6 @@
 # Intro
 
-We live in a world of hyper progress. Things are changing very much, very fast. Nobody knows exactly what’s going to happen in 10-20 years’ time,  but we can have foresight. It’s time to shape the future we want to see and take action.
+Our digital environment is changing, fast. Nobody knows exactly what it’ll look like in five to ten years’ time, but we know that how we produce and share our data will change where we end up. We have to decide how to preserve our rights online – who can access our data and how they use it. It’s time to take action and shape our digital future.
 
 > See your future. Make it. Be it. 
 
