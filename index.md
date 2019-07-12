@@ -153,50 +153,45 @@ Additionally, if I start selling data, companies would have very little incentiv
 ![Data labor future](img/sketch_2.png "Data labor future")
 
 In this next leap to year 2030, Amtis lives the life of a data labourer, being paid wages for data inputs. Here’s how Amtis begins the story:
-
-I am in my green pyjamas, but I can’t say for sure if it’s morning or evening. My eyes are red from staring at the screens and I feel out of heart and very tired. Of course, all these emotions and reactions are registered by my Playbor – my pocket-sized smart console that’s basically my entire life. It’s my connection to family, friends and the world, my health and mood monitor, my life organiser and personal assistant and basically where and how I earn my living. It’s my Play and it’s my Labour. See Trebor Scholz, [Uberworked and Underpaid: How Workers Are Disrupting the Digital Economy](https://www.wiley.com/en-us/Uberworked+and+Underpaid%3A+How+Workers+Are+Disrupting+the+Digital+Economy-p-9780745653570).
-
-These days, fewer and fewer people go to work in an actual office. Everything happens through this device, which captures the data I generate on different platforms and pays me for all these data inputs. But in reality, everything goes to one single company, as most of the other platforms are partners or affiliates of this big giant.
-
+ 
+I am in my green pyjamas, but I can’t say for sure if it’s morning or evening. My eyes are red from staring at screens. I am discouraged and very tired. Of course, all these emotions and reactions are registered by my Playbour – my pocket-sized smart console that basically became my entire life. It’s my connection to family, friends and the world; my health and mood monitor; my life organiser and personal assistant and basically how I earn my living. [It’s my Play and it’s my Labour](https://www.wiley.com/en-us/Uberworked+and+Underpaid%3A+How+Workers+Are+Disrupting+the+Digital+Economy-p-9780745653570 ).
+ 
+These days, fewer and fewer people go to work in an actual office. Everything happens through this device, which captures the data I generate on different platforms and pays me for all these data inputs. But in reality, everything goes to one single company, as most of the other platforms are its partners or affiliates.
+ 
 ## Shit money, literally
-
-Last month I enabled the “health” addon, so now the device is counting how frequently I go to the toilet and it connects to the sensors in the toilet to collect data about my pee and my poop. This data is sent to pharmaceutical companies so they can make better drugs. Maybe I'll help cure the world from urinary infections, prostate disorders, digestion problems and haemorrhoids. Every now and then I'm tempted to make a bad joke about shit money, but health data pays better than most others types, so I’ll shut up.
-
-You know what else pays well? My “entertainment” data. I get bonuses for more juicy data such as my heart rate, eyeball movement and perspiration amount when I watch movies, hear an audiobook, play games or read articles. Data associated with political media pay even better. Now that I learned this trick, my behaviour changed a lot. I am watching all the movies recommended in my Playbor, I am frenetically consuming political articles, and trying to produce as much health related data as possible. My life and actions are all about how good they pay.
-
-One time I even took laxatives to get more “results”. I was happy to see that I could tick the system, but after a few times I guess the algorithm detected a pattern and penalized me. Not only it took penalty money from my account, but it also placed a ban in pharmacies so that I can’t buy laxatives. Now, if I really have a digestion problem, I am screwed!  
-
+ 
+Last month I enabled the “health” add-on on my console, so now it's counting how frequently I go to the toilet and it connects to the sensors in the toilet to collect data about my pee and my poop. This data is sent to pharmaceutical companies so they can make better drugs. Maybe I’ll help cure the world from urinary infections, prostate disorders, digestion problems and haemorrhoids. Every now and then I’m tempted to make a bad joke about shit money, but health data pays better than most other types, so I’ll shut up. 
+ 
+You know what else pays well? My “entertainment” data. I get bonuses for more juicy data such as my heart rate, eyeball movement and amount of perspiration when I watch movies, listen to an audiobook, play games or read articles. Data associated with political media pay even better. After I learned that trick, my behaviour changed a lot. I am watching all the movies recommended in my Playbour, I am frenetically consuming click bait articles, and trying to produce as much health-related data as possible. My life and actions are all about how well they pay.
+ 
+One time I even took laxatives to get more “results”. I was happy to see that I could trick the system, but after a few times I guess the algorithm detected a pattern and penalized me. It not only fined my account, but it also placed a ban in pharmacies so that I can’t buy laxatives. Now, if I really have a digestion problem, I am screwed!
+ 
 ## Training the AI overlord
-
-Not many people know what all this is for. Everything that gets captured by this device is meant to train the world's most powerful AI system. So humans’ sole purpose in life is to teach this machine all we know, to help it evolve. The master plan is to transform it into an eternal collective extension of our humanity and train it to make better decisions for us. We’re already putting it in charge of our daily, more routine like decisions. More and more decisions from politicians and our government are relying on this supermachine. Would the next step be to give it full control?
-
-We're giving away our ability to make decisions for ourselves and we are trusting the machine to govern our world. We are enslaving ourselves in order to feed it data because that's the best way to get paid these days. As people [used to say](https://www.vox.com/2019/3/27/18216072/boss-socialism-capitalism-neoliberalism): "Better to be exploited in a capitalist society than unemployed and destitute."
-
+ 
+Not many people know what all this is for. Everything that gets captured by this device is meant to train the world’s most powerful AI system. Human input is used to teach this machine all we know, to help it evolve. The master plan is to transform it into an eternal collective extension of our humanity and train it to make better decisions for us. We’re already putting it in charge of our daily, routine decisions. More and more decisions from politicians and our government rely on this supermachine. Would the next step be to give it full control?
+ 
+We’re giving away our ability to decide for ourselves and we are trusting the machine to govern our world. We are enslaving ourselves in order to feed it data, because that’s the best way to get paid these days. As people [used to say](https://www.vox.com/2019/3/27/18216072/boss-socialism-capitalism-neoliberalism): "Better to be exploited in a capitalist society than unemployed and destitute".
+ 
 ## Both user and worker
-
-People asked for data markets, so the data I contribute is now being paid for as labour. I have full work documentation registered with the platform - right from the moment my first bit of data reaches them. I have a dashboard in my console where I see how many tasks I performed, the price that was paid for each, how many days off I am entitled to (calculated based on how hard working I was), and what contribution goes to my pension plan. It’s funny that I am a user of these platforms, but also their worker. 
-
+ 
+People asked for data markets, so the data I contribute is now paid for as labour. I have full work documentation registered with the Playbour from the moment my first bit of data reached them. The interface of my console shows me how many tasks I have performed, the price that was paid for each, how many days off I am entitled to (calculated based on how hard-working I was) and what contributions go to my pension plan. It’s funny that I am a user of these platforms, but I am also their worker.
+ 
 ## The Taskometer is the employer’s new evaluation metric
+ 
+Every time a company needs something, there’s a federated AI Manager that splits the task into smaller chunks and sends alerts to workers to complete it. You have to be very fast when this happens, to make sure you get the task - just like you did a decade ago with “crowdsourcing markets”. More advanced versions of the Playbour have an AI that selects the jobs for you, instead of you doing this manually. But this version of the console is more expensive. I am saving up to buy one later. The thing is, if you don’t complete 100,000 micro tasks per month, you don’t get paid at minimum wage level per task. The system works like this: you get paid by the task, but the price varies depending on the total amount of tasks you completed. And there are certain thresholds, and some evaluation criteria such as the quality of data. So you can’t be sloppy. If you’re below 100,000 in your Taskometer, the price per task is so small that you can barely keep your head up. But hey, now we can no longer say there’s fake unemployment. The Taskometer certifies my labour and evaluates my work.
 
-Every time a company needs something, there’s a confederated AI Manager that splits the task into smaller chunks and sends alerts to workers to complete it. You have to be very fast when this happens, to make sure you get the task - just like you did a few decades ago with “crowdsourcing markets”. More advanced versions of the Playbor have an AI that selects the jobs for you, instead of you doing this manually. But this version of the console is more expensive. I am saving up to buy one later. The thing is, if you don’t complete 100,000 micro tasks per month, you don’t get paid at minimum wage level per task. The system works like this: you get paid by the task, but the price varies depending on the total amount of tasks you completed. And there are certain thresholds, and some evaluation criteria such as the quality of data. So you can’t be sloppy. If you’re below 100,000 in your Taskometer, the price per task is so small that you can barely keep your head up. But hey, now we can no longer say there’s fake unemployment. The Taskometer certifies my labour and evaluates my work. 
-
-## Companies want subsidies from governments
-
-I tried to speak with some of the union leaders about raising those thresholds. They told me that’s not going to happen any time soon, as companies are waiting for subsidies, but the government refuses. Until the government pays money, they can’t afford to raise the minimum threshold. Platforms are pushing the hands of governments because elections are coming up and politicians know that it’s through data analytics they are going to get voters. This makes me furious! Subsidies basically mean more tax money, more of our money! So we’re in a vicious circle. No wage increase until more money from government, no government money until more tax collection, no increased tax collection until we work more. And we’re exhausted.
-
-## Data labour unions are weak 
-
-So I suggested we organize a strike. If companies don’t have their workers, they lose users too. But since most of the essential services - and even the critical infrastructure of our city - are owned or operated by the same few firms, a strike will basically mean we’ll have to face total shut down. They will surely retaliate, as it was made clear a number of times in the past. They can cut off power, water and food supply in any given region in a matter of minutes. Some of us may be brave to take this on, but the majority of workers are scared and we haven’t reached a critical mass.
+## Data labour unions
+I tried to speak with some of the union leaders about raising those thresholds. We're counting on them to represent us and protect our labour rights, but data labour unions are still quite young and weak. Not sure if they can manage to put that much pressure.
 
 ## Nobody escapes data exploitation
 
-You might think that wealthier people got away in the data labour system. Actually, the discussion is more nuanced than that. It’s true that they could stay out of data labour and not hook their lives to a Playbor device - but they could not get away from sensors and tracking. The rich started building their walled cities where nobody else could afford to live in. The cities were sealed so that nobody outside their select group could come in. It had heavy surveillance infrastructure to achieve this. A truly smart city, some would say. And all the data produced by their houses, by their devices, by the sensors in their citadel, was all captured by the AI overlord. They were as much trapped in the same AI ecosystem as everybody else, but they had the illusion of privacy and protection from the plebes. 
-
+You might think that wealthier people got away in the data labour system. Actually, it’s more nuanced than that. It’s true that they could stay out of data labour and not hook their lives to a Playbour device - but they could not get away from sensors and tracking. The rich started building walled cities where nobody else could afford to live. The cities were sealed so that nobody outside their select group could come in. They used heavy surveillance infrastructure to achieve this. A truly smart city, some would say. And all the data produced by their houses, by their devices, by the sensors in their citadel, was captured by the AI overlord. They were as much trapped in the same AI ecosystem as everybody else, but they had the illusion of privacy and protection from the plebes.
+ 
 ## Privacy for pennies
-
-The “data sharing economy” and automated services have displaced countless jobs. The majority of these people are now selling every bit of their data for a few pennies each. We are now seeing the true face of this type of economy based on "sharing".
-
-Here’s what I make out of this story on a more objective and critical level. If you want to jump straight to Scenario 3 click here. 
+ 
+The “data sharing economy” and automated services have displaced countless jobs. Most people now sell every bit of their data for a few pennies each. We can now see the true face of this economy based on "sharing".
+ 
+Here’s what I make out of this story on a more objective and critical level. If you want to jump straight to Scenario 3 click here.
 
 
 ## Reflections on Scenario 2
