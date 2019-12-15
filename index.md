@@ -209,7 +209,7 @@ In this next leap to year 2030, Amtis lives the life of a data labourer, being p
  
 *Not many people know what all this is for. Everything that gets captured by this device is meant to train the world’s most powerful AI system. Human input is used to teach this machine all we know, to help it evolve. The master plan is to transform it into an eternal collective extension of our humanity and train it to make better decisions for us. We’re already putting it in charge of our daily, routine decisions. More and more decisions from politicians and our government rely on this supermachine. Would the next step be to give it full control?*
 
-*We’re giving away our ability to decide for ourselves and we are trusting the machine to govern our world. We are enslaving ourselves in order to feed it data, because that’s the best way to get paid these days. As people used to say: ["Better to be exploited in a capitalist society than unemployed and destitute"](https://www.vox.com/2019/3/27/18216072/boss-socialism-capitalism-neoliberalism).*
+*We’re giving away our ability to decide for ourselves and we are trusting the machine to govern our world. We are enslaving ourselves in order to feed it data, because that’s the best way to get paid these days. As people used to say: "[Better to be exploited in a capitalist society than unemployed and destitute](https://www.vox.com/2019/3/27/18216072/boss-socialism-capitalism-neoliberalism)".*
  
 ## Both user and worker
  
@@ -229,7 +229,7 @@ In this next leap to year 2030, Amtis lives the life of a data labourer, being p
  
 ## Privacy for pennies
  
-*The 'data sharing economy' and automated services have displaced countless jobs. Most people now sell every bit of their data for a few pennies each. We can now see the true face of this economy based on 'sharing'.*
+*The "data sharing economy" and automated services have displaced countless jobs. Most people now sell every bit of their data for a few pennies each. We can now see the true face of this economy based on "sharing".*
 
 Here’s what I make out of this story on a more objective and critical level. If you want to jump straight to Scenario 3 [click here](https://privacyinternational.org/long-read/3088/our-data-future#scenario3).
 
