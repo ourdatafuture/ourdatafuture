@@ -369,43 +369,58 @@ Once the protocols were stable and reliable, the big vision was to connect decen
 
 # Reflections on Scenario 4
 
-## Data rights as a comprehensive system of protection
+Amtis' story brings a bold vision. Open protocols and decentralised systems create a new universe of possibilities. Groups have been running [peer-to-peer networks](https://runyourown.social/) for a long time, but decentralised file storage and moving towards a decentralised web, will change the way we look at data structures.
 
-Stepping out of the scenarios and grounding ourselves back in today’s realities, it’s unquestionable that people have a sense of resentment about the way data is harvested by data monopolies. We have lost control over the data we’re generating, and we are becoming more aware of exploitative practices. In order to address the power imbalances that plague our digital sphere, I believe we need a system that is able to provide individuals with clear, direct authority and autonomy over their data. One that allows us to set boundaries and to have real control. 
+However, the most important lesson we need to understand is that there is no one size fits all. There are always going to be different enclaves. People will organise themselves in different ways for different needs. We need a system that allows for these differences. There is no reason why different models shouldn't be able to speak to one another. Nobody needs to be left out.
 
-A data rights system allows us to access, change, move or delete data; to know who’s collecting it, where it’s being stored, where it’s going, who has access to it, and for what purposes. Data rights cover both data  that I voluntarily generate, but also data that is automatically collected about me. This includes location and browsing history, but also information that has been derived, inferred or predicted from other sources. In this sense a data rights system offers a much more comprehensive architecture of control and autonomy than ownership. 
+We also need to acknowledge that as much as devices and technology become cheaper, there are still going to be many people below the poverty line who won't be able to afford them. Amtis could pay for technical consultancy and order a privacy enhanced phone, but not everybody is going to be able to do the same. As mentioned in previous sections, privacy should not be a right only the rich or more resourced people can enjoy.
 
-That’s why, when an appropriate architecture of rights is in place, I essentially don’t need ownership rights. It is true though that this model puts more responsibility on the user, to manage and take informed decisions about what data goes where. On its own, a data rights system is not enough - a strong architecture to support it also needs to be put in place.
+The data rights environment does not function in isolation. It seeks to provide people choice and agency over data; it doesn't mean shutting off from the world in a 'safe' bubble. It is an autonomous, fully interoperable architecture with built-in protection. It uses strong cryptographic mechanisms and anonymisation techniques to protect both individual privacy, but it also enables us to extract [social benefits from collective data](https://decodeproject.eu/what-decode).
 
-## Choice and transparency on top of well-designed data processes
+Fierce enforcement, open standards and interoperability protocols are key components of the data rights model. Strong protection mechanisms cannot rely on the individual having to make decisions at every step of the data flow. Protection needs to be ensured regardless of whether people know how to protect their data or not.
 
-But a data rights system also places a higher burden of responsibility on organisations. Data rights demand that organisations create a secure and protected environment for data processing and adopt a very transparent set of rules. Data processes need to be built from the outset by complying with the principles of privacy-by-design and by-default and data minimization. Protection is at the core and data is collected in a meaningful and transparent way. Then, organisations need to invest in data portability so that data can be easily moved from one service to another, the same way phone numbers can be ported  between different carriers. 
+That's why decentralised privacy-aware, censorship-resistant protocols are essential. Amtis used a data rights dashboard for analysing privacy policies and to manage orders from companies that take privacy into account. As much as this sounds like a good tool, individuals shouldn't be forced to turn themselves in data vigilantes and be alert each time companies want to collect data from them. Also, it's not a good idea to rely on a device that's so intimately connected to your daily activities. In Amtis' case, we should be concerned about the producer of the data rights dashboard and how vulnerable it might be to attacks. Could this device be used for mass surveillance purposes? Who is making this device and its security measures?
 
-Data rights offer a solid framework. It’s the backbone for a healthy society, where individual empowerment and collective well-being is paramount. We need to advance and strengthen this architecture of rights with vigilant watchdogs and new socio-economic rationales — the muscles that keep the system in check. Third, we need well-designed data processes and user friendly data portability — the skin that ties everything together. 
+Data portability not only offers the possibility for people to move their data from one service to another, it also gives startups and small companies a chance to compete on the market. Their challenge is reduced because people can choose to move data to their service. However, companies can come up with all sorts of tricks to attract people to their platform such as profiling, microtargeting or paying them for their data to join. Critics say that as long as we continue to encourage the market economy, a data rights system can only do damage control. A data rights system can only reach its true potential if other types of mechanisms and incentives are in place; and there are [more options to explore](https://newleftreview.org/issues/II116/articles/evgeny-morozov-digital-socialism).
 
-## Develop new language
+More work needs to be done. Data captured by sensors and the vulnerabilities of IoT (Internet of Things) are a growing concern. We're far from solving Artificial Intelligence systems and we haven't even begun to seriously address biotech - which opens up an entire new dimension of challenges at an unprecedented level of moral, ethical, societal and evolutionary complexity.
 
-I think data ownership fails to address the main challenges of today’s digital economy. Ownership certainly doesn’t capture the full spectrum of related issues. An ownership system, even though it sounds like a good idea, is incapable of stopping exploitative data practices and monopolies on its own - it would simply allow them to adapt and persist.  If we keep our focus primarily on figuring out data ownership, we face the risk of sidetracking the discussion onto a very questionable path. This is an open invitation to develop new language that assists clearer conversations and to better shape our demands for the future we want to see. 
+All in all, we can still improve the data rights model, but it's the closest we have to a healthy, empowering and balanced architecture.
 
-The next journey is for your to imagine. Start designing Scenario 5 right here. 
+# TO WRAP UP
 
-*End*
+#### Data rights as a part of a comprehensive system of protection
 
+Stepping out of the scenarios and grounding ourselves again in today’s realities, people are increasingly aware and angry about how data is harvested by data monopolies. We are disempowered: we have lost control over the data we are generating, and we are becoming more aware of exploitative practices. In order to address the power imbalances that plague our digital sphere, I believe we need a system that provides individuals with clear, direct authority over their data. One that allows us to set the boundaries we want for our private space. But at the same time, we also need a system that enables us to extract the collective benefit from data.
 
-# Next steps
+A data rights system allows us to access, change, move or delete data; to know who’s collecting it, where it’s being stored, where it’s going, who has access to it, and for what purposes. Data rights cover both data that I voluntarily generate, but also data that is automatically collected or inferred about me. This includes location and browsing history, but also information that has been derived, inferred or predicted from other sources. In that sense, a data rights system offers a much more comprehensive architecture of control and protection than ownership. That’s why, when appropriate control rights are in place, we essentially don’t need property rights. It is true though that this model puts more responsibility on the user, to manage and take informed decisions about what data goes where.
+
+However, principles such as data minimisation, fairness and purpose specification - if meaningfully implemented - have a strong chance to reverse this burden on the user. Privacy will not depend on how knowledgeable, informed or skilled the individual is, but on how well companies comply with their protection obligations. This way the individual will not be the weakest link, having to struggle to understand all the complexities. Instead, companies design processes and data flows with privacy principles in mind, which reduce the need for individuals to invest time and effort to understand how to protect their data but at the same time respecting agency and autonomy. Data rights are not the substitute for proactive implementation and protection.
+
+On its own, a data rights system is not enough, it needs to be reinforced by protection principles and clear legal obligations for all the actors involved. Coupled with a strong technical and enforcement layer, the potential of the data rights architecture is enormous.
+
+### Choice and transparency on top of well-designed data processes
+
+A data rights system also places a higher burden of responsibility on organisations. Data rights demand that organisations create a secure and protected environment for data processing and adopt a very transparent set of rules. Data processes will be built to comply with the principles of privacy-by-design and by default and data minimisation from the outset. Protection is at the core and data needs to be collected in a meaningful and transparent way. Organisations also need to invest in data portability so that data can be easily moved from one service to another - the same way phone numbers can be ported between different telecommunications operators.
+
+Data rights offer a solid framework. They are the backbone of a healthy society, where individual empowerment and collective well-being is paramount. We need to advance and strengthen this architecture of rights with vigilant watchdogs and new socio-economic rationales — the muscles that keep the system in check. We need well-designed data processes and user-friendly data portability — the skin that ties everything together.
+
+If enforced, data rights would challenge the business models of tech giants. They would have to rethink their business philosophy and redesign their business processes to implement privacy thorough operations. Instead of allowing data exploitation, meaningful enforcement would lead to a diversification of offers in the digital markets and more, genuine choice for individuals.
+
+### Develop new language
+
+In my view "data ownership" fails to address the main challenges of today’s digital economy. Ownership certainly doesn’t capture the full spectrum of related issues. An ownership system, even though it sounds like a good idea, is incapable of stopping exploitative data practices and monopolies on its own - it would simply allow them to adapt and persist. If we keep our focus primarily on figuring out data ownership, we face the risk of sidetracking the discussion onto a very questionable path. This is an open invitation to develop new language for clearer conversations and to better shape our demands for the future we want to see.
+
+I believe the potential for the data rights architecture is huge, and there are many models to explore. Amtis' next journey is for you to imagine.
+
+# NEXT STEPS
 
 How do you see YOUR future? Tell us your first step for shaping it.
 
-Don’t know exactly what the first step can be? Here are some suggestions:
+Don’t know exactly what your first step should be? Here are some suggestions:
 
-1. European elections are coming up. Ask candidates what role they think data plays in the future. If you see a lack of foresight, engage in a deeper discussion with them. Make them listen and use the scenarios to explain how things might go wrong.
+1. Elections around the world are coming up. Ask candidates what role they think data plays in the future. If you see a lack of foresight, engage in a deeper discussion with them. Make them listen and use the scenarios to explain how things might go wrong.
 
-2. Start a data rights hub in your community.
+2. Start a data rights hub in your community. There are a few discussion forums that are dedicated to thinking about what happens next and how to address our data challenges. For example, check out the [My Data community](https://mydata.org/) and the [ResponsibleData.io mailing list](https://lists.theengineroom.org/lists/info/responsible_data) where you can engage in conversations on the themes discussed in the scenarios.
 
-    - There are a few discussion forums that are spending time thinking about what happens next and how to address our data challenges. There’s the My Data community (slack channel here) and the ResponsibleData.io mailing list.
-
-    - There are also well-intentioned initiatives such as  RadicalxChange, but there might be some aspects that they promote that need a deeper reflection.
-
-    - Another example is the DECODE Project.
-
-3. Your creative skills are needed for spreading the data discussion more broadly. Reach out to [valentinap@privacyinternational.org](mailto:valentinap@privacyinternational.org) if you want to contribute to building a toolkit to make it easier for your friends and neighbours and for the world to engage with the topic. We could really benefit from bringing this topic to a larger community!
+3. Your creative skills are needed for spreading the data discussion more broadly. Reach out to [valentinap@privacyinternational.org] if you want to contribute to building a toolkit to make it easier for your friends, your neighbours and the world to engage with the topic. We would all benefit from sharing this topic with more communities!
