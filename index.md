@@ -1,21 +1,23 @@
-*Dear reader,
+*Dear reader,*
 
-*I updated the Our Data Future website to reflect the text of the original post, initially published on 17 July 2019 as part of my Mozilla Fellowship with Privacy International. You can find it [here](https://privacyinternational.org/long-read/3088/our-data-future).*
+*I updated the Our Data Future website on 15 December 2019 to reflect the text of the original post, initially published on 17 July 2019 as part of my Mozilla Fellowship with Privacy International. You can find it [here](https://privacyinternational.org/long-read/3088/our-data-future).*
 
 *After you step into the date time machine with me, I'd like to voice an open invitation to engage with this work further. I'm eager to work together and write a comic book, a song, make an art exhibition, an animation or a short video. If this sounds cool, drop me an email at **[valentinap@privacyinternational.org]**. I’d love to hear your ideas or to pitch you mine ;)*
 
-*If you'd like to find out more about my work, I post regularly on [Medium](https://medium.com/@valentina_7678).
+*If you'd like to find out more about my work, I post regularly on [Medium](https://medium.com/@valentina_7678).*
 
-*I want to give special thanks to everybody who helped me shape and improve this project: My Privacy International and Mozilla colleagues, my fellow fellows [Maggie Haughey](https://twitter.com/meochaidha), [Slammer Musuta](https://soupysecurity.com/), [Darius Kazemi](http://www.tinysubversions.com/) and many other friends and wonderful people: [Andreea Belu](https://twitter.com/EveDaRib), [Alexandra Ștefănescu](https://twitter.com/catileptic), [Lucian Boca](https://twitter.com/meronymon), [Josh Woodard](http://thisisjoshwoodard.com/), [Philip Sheldrake](https://www.philipsheldrake.com/), [Christopher Olk](https://www.hiig.de/en/christopher-olk/), [Tuuka Lehtiniemi](https://twitter.com/tlehtiniemi), and Renate Samson.*
+I want to give special thanks to everybody who helped me shape and improve this project: My Privacy International and Mozilla colleagues, my fellow fellows [Maggie Haughey](https://twitter.com/meochaidha), [Slammer Musuta](https://soupysecurity.com/), [Darius Kazemi](http://www.tinysubversions.com/) and many other friends and wonderful people: [Andreea Belu](https://twitter.com/EveDaRib), [Alexandra Ștefănescu](https://twitter.com/catileptic), [Lucian Boca](https://twitter.com/meronymon), [Josh Woodard](http://thisisjoshwoodard.com/), [Philip Sheldrake](https://www.philipsheldrake.com/), [Christopher Olk](https://www.hiig.de/en/christopher-olk/), [Tuuka Lehtiniemi](https://twitter.com/tlehtiniemi), and Renate Samson.
 
-*Illustrations by [Cuántika Studio](https://twitter.com/tlehtiniemi) (Juliana López - Art Director and Illustrator, Sebastián Martínez - Creative Director).*
+Illustrations by [Cuántika Studio](https://twitter.com/tlehtiniemi) (Juliana López - Art Director and Illustrator, Sebastián Martínez - Creative Director).
 
-*Copyediting by Sam DiBella.*
+Copyediting by Sam DiBella.
 
 
 This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).
 
 *Suggested citation: [Our Data Future](https://privacyinternational.org/long-read/3088/our-data-future), by [Valentina Pavel](https://medium.com/@valentina_7678), former Mozilla Fellow embedded at Privacy International, project and illustrations licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).*
+
+
 
 
 
@@ -339,39 +341,39 @@ This time, Amtis travels to year 2030 to get a sense of how the data rights fram
 
 ### Data rights dashboard
 
-The dashboard showed me a summary report with information about how my data was handled: which company processed my order, the type of data that was collected about me, why it needed that information, and who this information was shared with. I am getting more and more 'clean' reports nowadays, but ten years ago it was overwhelming to see these notifications. Few companies were good at implementing privacy minded data operations, and I didn't feel like I really had a choice about what to do with my data.
+*The dashboard showed me a summary report with information about how my data was handled: which company processed my order, the type of data that was collected about me, why it needed that information, and who this information was shared with. I am getting more and more 'clean' reports nowadays, but ten years ago it was overwhelming to see these notifications. Few companies were good at implementing privacy minded data operations, and I didn't feel like I really had a choice about what to do with my data.*
 
-Something that pushed companies to be more serious about data protection was the fact that the dashboard could communicate with the regulator’s enforcement systems. Any time there was mistreatment of data, I would receive a notification which I could decide to forward to my regulator. I did that a lot of times! Regulators are more resourceful than they used to be, so when they receive notifications, they would start an investigation. 
+*Something that pushed companies to be more serious about data protection was the fact that the dashboard could communicate with the regulator’s enforcement systems. Any time there was mistreatment of data, I would receive a notification which I could decide to forward to my regulator. I did that a lot of times! Regulators are more resourceful than they used to be, so when they receive notifications, they would start an investigation.*
 
 ### Machine-readable privacy policy
 
-I like the data rights dashboard because it saves me a lot of time. Before I made the order, it scanned the machine-readable privacy policy and terms and conditions and showed me a summary report of all relevant provisions related to how my data was being handled. It analysed both the companies that were selling the kitchen appliances I need for my new flat, but also the terms of the platforms the companies used to sell the products. The best part was that the summary didn't just rely on what the privacy policies said. It also queried an official public database to see if there are any investigations related to the product I ordered. Additionally, it performed a deep search for any public information related to the product I wanted, to see if there were known breaches or news scandals connected to the product or to the company. I was shocked when I discovered that a team of investigative tech-journalists had revealed that the Smart Vacuum - which I was initially tempted to buy - automatically sent the blueprints of my house together with metadata to a foreign intelligence agency! 
+*I like the data rights dashboard because it saves me a lot of time. Before I made the order, it scanned the machine-readable privacy policy and terms and conditions and showed me a summary report of all relevant provisions related to how my data was being handled. It analysed both the companies that were selling the kitchen appliances I need for my new flat, but also the terms of the platforms the companies used to sell the products. The best part was that the summary didn't just rely on what the privacy policies said. It also queried an official public database to see if there are any investigations related to the product I ordered. Additionally, it performed a deep search for any public information related to the product I wanted, to see if there were known breaches or news scandals connected to the product or to the company. I was shocked when I discovered that a team of investigative tech-journalists had revealed that the Smart Vacuum - which I was initially tempted to buy - automatically sent the blueprints of my house together with metadata to a foreign intelligence agency!* 
 
 ## Data portability
 
-What I am most grateful for nowadays is that I can easily move my data from one company to another. When I moved to the new place, I transferred all my utilities to the new address with a click of a button. I kept my rates and didn't have any headaches for moving my subscriptions from one place to the other.
+*What I am most grateful for nowadays is that I can easily move my data from one company to another. When I moved to the new place, I transferred all my utilities to the new address with a click of a button. I kept my rates and didn't have any headaches for moving my subscriptions from one place to the other.*
 
-In case I don't like a company's services anymore, or they change their terms and conditions, I can move to a different company without second thoughts. Data portability allows me to pull all my data from one company and move it to another.
+*In case I don't like a company's services anymore, or they change their terms and conditions, I can move to a different company without second thoughts. Data portability allows me to pull all my data from one company and move it to another.*
 
-I think that's very healthy. Smaller companies used to be cut off from the market simply because they couldn’t get enough data and customers. With data portability, this challenge is more manageable. Their major task is to convince people to trust them with their data and not to give them strong reasons to leave.
+*I think that's very healthy. Smaller companies used to be cut off from the market simply because they couldn’t get enough data and customers. With data portability, this challenge is more manageable. Their major task is to convince people to trust them with their data and not to give them strong reasons to leave.*
 
 ### Open Hardware
 
-My new apartment was empty when I moved in so I needed furniture. 3D printed furniture is a big thing now. You can find a 3D printing shop literally at almost every corner. I went down to my neighborhood's 3D printing shop to browse their catalogue. I needed an ergonomic desk.
+*My new apartment was empty when I moved in so I needed furniture. 3D printed furniture is a big thing now. You can find a 3D printing shop literally at almost every corner. I went down to my neighborhood's 3D printing shop to browse their catalogue. I needed an ergonomic desk.*
 
-To my surprise, they were not doing only furniture. They have a separate line only for open hardware - anything from kettles, fridges and washing machines to cameras, audio systems and laptops. They were advertising an Open Hardware phone. The guy from the shop showed me how it works. You basically choose all the spare parts you want and they assemble the model for you.
+*To my surprise, they were not doing only furniture. They have a separate line only for open hardware - anything from kettles, fridges and washing machines to cameras, audio systems and laptops. They were advertising an Open Hardware phone. The guy from the shop showed me how it works. You basically choose all the spare parts you want and they assemble the model for you.*
 
-I went ahead and looked at the documentation for all the spare parts. It wasn't easy to understand all the blueprints of the different components and how everything fit together. I tried to make sense of it, but in the end I paid for technical consultancy at the shop before making the order. The phone I ordered is made out of 3D-printed material: it's 100% durable and recyclable material! And it's sooo cheap, I can't believe it! I just became the biggest fan of open hardware! These products are transparent, highly customisable for any privacy needs, sustainable and affordable.
+*I went ahead and looked at the documentation for all the spare parts. It wasn't easy to understand all the blueprints of the different components and how everything fit together. I tried to make sense of it, but in the end I paid for technical consultancy at the shop before making the order. The phone I ordered is made out of 3D-printed material: it's 100% durable and recyclable material! And it's sooo cheap, I can't believe it! I just became the biggest fan of open hardware! These products are transparent, highly customisable for any privacy needs, sustainable and affordable.*
 
 ### People's Digitalopoly
 
-Doing some research into this, I found out that the Open Hardware phone was prototyped during a [futurathon](https://mydata2019.org/programme-page/the-first-data-futurathon/). Futurathons are self-organised meetings run by a grassroots movement of engineers, artists, philosophers, journalists, youth, economists, lawyers, policy makers, environmentalists, and LGBTIAQ+. Years back, they started to design different bits and pieces of a new architecture based on strong, enforceable rights over data. Their goal was to design the People's Digitalopoly - a new digital world, which is not based on financial gains, but on social contribution and civic participation. They believed in a model which empowers people with autonomy over data and new ways of looking at our relationship to data.
+*Doing some research into this, I found out that the Open Hardware phone was prototyped during a [futurathon](https://mydata2019.org/programme-page/the-first-data-futurathon/). Futurathons are self-organised meetings run by a grassroots movement of engineers, artists, philosophers, journalists, youth, economists, lawyers, policy makers, environmentalists, and LGBTIAQ+. Years back, they started to design different bits and pieces of a new architecture based on strong, enforceable rights over data. Their goal was to design the People's Digitalopoly - a new digital world, which is not based on financial gains, but on social contribution and civic participation. They believed in a model which empowers people with autonomy over data and new ways of looking at our relationship to data.*
 
-I was intrigued by their vision and I basically spent the entire rest of the day reading their manifesto. I also discovered some of the first transcripts of their meetings where they were saying that put their bet on the data rights model. They realised very early on that the true potential of the data rights model could only be achieved with open protocols and interoperability. From that time, they spent ten years of hard work to develop the [Web3](https://web3.foundation/) open protocols.
+*I was intrigued by their vision and I basically spent the entire rest of the day reading their manifesto. I also discovered some of the first transcripts of their meetings where they were saying that put their bet on the data rights model. They realised very early on that the true potential of the data rights model could only be achieved with open protocols and interoperability. From that time, they spent ten years of hard work to develop the [Web3](https://web3.foundation/) open protocols.*
 
 ### Big vision: Connect the decentralised with the centralised
 
-Once the protocols were stable and reliable, the big vision was to connect decentralised services among themselves, but also with closed systems. They believed everybody should be able to run their own chat applications, but at the same time to [communicate with others on closed services](https://matrix.org/). The idea was for everything to be possible in the same place, irrespective of the centralised, distributed or decentralised architectures. This left me thinking about how easy it would be for me to use such an interconnected digital ecosystem and what it would mean for the way I live and do business.
+*Once the protocols were stable and reliable, the big vision was to connect decentralised services among themselves, but also with closed systems. They believed everybody should be able to run their own chat applications, but at the same time to [communicate with others on closed services](https://matrix.org/). The idea was for everything to be possible in the same place, irrespective of the centralised, distributed or decentralised architectures. This left me thinking about how easy it would be for me to use such an interconnected digital ecosystem and what it would mean for the way I live and do business.*
 
 # Reflections on Scenario 4
 
