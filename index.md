@@ -2,7 +2,9 @@
 
 *I updated the Our Data Future website on 15 December 2019 to reflect the original post, initially published on 17 July 2019 as part of my Mozilla Fellowship with Privacy International. You can find the original post [here](https://privacyinternational.org/long-read/3088/our-data-future).*
 
-*As you step into the time machine with me, I'm also launching an open invitation for you to engage with this work further. I'm eager to work together and develop this project to reach a larger audience. I need your creative spirit to write a comic book, a song, make an art exhibition, an animation or a short video. If this sounds like something you want to get involved in, drop me an email at **[valentinap@privacyinternational.org]**. I’d love to hear your ideas or to pitch you mine ;)*
+*As you step into the time machine with me, I'm also launching an open invitation for you to engage with this work further. I'm eager to work together and develop this project to reach a larger audience.* 
+
+*I need your creative spirit to write a comic book, a song, make an art exhibition, an animation or a short video. If this sounds like something you want to get involved in, drop me an email at **[valentinap@privacyinternational.org]**. I’d love to hear your ideas or to pitch you mine ;)*
 
 *If you'd like to find out more about my work, I post regularly on [Medium](https://medium.com/@valentina_7678).*
 
