@@ -75,7 +75,7 @@ In 2030 Amtis finds a future where property rights for data were adopted. Here�
 
 ## OK, I have property rights over data. Where do I start? 
 
-I decided to see a consultancy because I didn’t know what data property actually means. For example, can I rent my data? Can people now buy and sell data like on the stock market? Do I need a data broker to bid for me? How much money can I make from giving data to my day-to-day services? How much will my data be worth in the future? Can I leave it as an inheritance to my children?
+*I decided to see a consultancy because I didn’t know what data property actually means. For example, can I rent my data? Can people now buy and sell data like on the stock market? Do I need a data broker to bid for me? How much money can I make from giving data to my day-to-day services? How much will my data be worth in the future? Can I leave it as an inheritance to my children?*
 
 What I am most interested in now is what’s the fastest way to profit. At the same time, I don’t want to be fooled like in the past with 'free services'. I may have lost my job, but I still have dignity left. I wouldn’t want my data to be used in any way companies please. Would I be able to set my own conditions? 
 
