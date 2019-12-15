@@ -6,20 +6,6 @@
 
 *If you'd like to find out more about my work, I post regularly on [Medium](https://medium.com/@valentina_7678).*
 
-I want to give special thanks to everybody who helped me shape and improve this project: My Privacy International and Mozilla colleagues, my fellow fellows [Maggie Haughey](https://twitter.com/meochaidha), [Slammer Musuta](https://soupysecurity.com/), [Darius Kazemi](http://www.tinysubversions.com/) and many other friends and wonderful people: [Andreea Belu](https://twitter.com/EveDaRib), [Alexandra Ștefănescu](https://twitter.com/catileptic), [Lucian Boca](https://twitter.com/meronymon), [Josh Woodard](http://thisisjoshwoodard.com/), [Philip Sheldrake](https://www.philipsheldrake.com/), [Christopher Olk](https://www.hiig.de/en/christopher-olk/), [Tuuka Lehtiniemi](https://twitter.com/tlehtiniemi), and Renate Samson.
-
-Illustrations by [Cuántika Studio](https://twitter.com/tlehtiniemi) (Juliana López - Art Director and Illustrator, Sebastián Martínez - Creative Director).
-
-Copyediting by Sam DiBella.
-
-
-This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).
-
-*Suggested citation: [Our Data Future](https://privacyinternational.org/long-read/3088/our-data-future), by [Valentina Pavel](https://medium.com/@valentina_7678), former Mozilla Fellow embedded at Privacy International, project and illustrations licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).*
-
-
-
-
 
 # Our Data Future
 
@@ -67,6 +53,19 @@ How? Here’s where our journey begins. Below are four possible future scenarios
 Amtis travelled forward in time and found four different futures: one where data is treated like property and data markets are created; one where people are paid for data as labour; one where data is stored in nationalised funds; and one where users have clear rights concerning their data.
 
 Here’s what I collected from Amtis’ diary. I’ve added some of my own reflections at the end of each chapter as well, just to spice things up a bit :)
+
+
+I want to give special thanks to everybody who helped me shape and improve this project: My Privacy International and Mozilla colleagues, my fellow fellows [Maggie Haughey](https://twitter.com/meochaidha), [Slammer Musuta](https://soupysecurity.com/), [Darius Kazemi](http://www.tinysubversions.com/) and many other friends and wonderful people: [Andreea Belu](https://twitter.com/EveDaRib), [Alexandra Ștefănescu](https://twitter.com/catileptic), [Lucian Boca](https://twitter.com/meronymon), [Josh Woodard](http://thisisjoshwoodard.com/), [Philip Sheldrake](https://www.philipsheldrake.com/), [Christopher Olk](https://www.hiig.de/en/christopher-olk/), [Tuuka Lehtiniemi](https://twitter.com/tlehtiniemi), and Renate Samson.
+
+Illustrations by [Cuántika Studio](https://twitter.com/tlehtiniemi) (Juliana López - Art Director and Illustrator, Sebastián Martínez - Creative Director).
+
+Copyediting by Sam DiBella.
+
+
+This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).
+
+*Suggested citation: [Our Data Future](https://privacyinternational.org/long-read/3088/our-data-future), by [Valentina Pavel](https://medium.com/@valentina_7678), former Mozilla Fellow embedded at Privacy International, project and illustrations licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).*
+
 
 # Scenario 1 – Data property
 
