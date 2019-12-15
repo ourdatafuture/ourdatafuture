@@ -1,6 +1,6 @@
 *Dear reader,*
 
-*I updated the Our Data Future website on 15 December 2019 to reflect the text of the original post, initially published on 17 July 2019 as part of my Mozilla Fellowship with Privacy International. You can find it [here](https://privacyinternational.org/long-read/3088/our-data-future).*
+*I updated the Our Data Future website on 15 December 2019 to reflect the original post, initially published on 17 July 2019 as part of my Mozilla Fellowship with Privacy International. You can find it [here](https://privacyinternational.org/long-read/3088/our-data-future).*
 
 *After you step into the date time machine with me, I'd like to voice an open invitation to engage with this work further. I'm eager to work together and write a comic book, a song, make an art exhibition, an animation or a short video. If this sounds cool, drop me an email at **[valentinap@privacyinternational.org]**. I’d love to hear your ideas or to pitch you mine ;)*
 
