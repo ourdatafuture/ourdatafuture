@@ -343,11 +343,31 @@ I like the data rights dashboard because it saves me a lot of time. Before I mad
 
 ## Data portability
 
-What I enjoy the most is that I can easily switch from one service provider to another. The data rights system allowed for the evolution of highly-portable services based on open protocols. Now, I can pull all my data  from one operator and easily move it to another. This is a great incentive for companies to gain my trust and make sure not to screw up. More innovation and competition is flourishing. Smaller companies that were once cut off from the market simply because they couldn’t get enough data and customers, no longer have the mentality that their only chance is to be acquired by bigger companies. They have the incentive to play safe, be honest and earn customers’ trust because everybody competes at the same level. It’s a network effect where honesty is the first guiding principle. There’s no more vendor lock-in and I simply switch to another company and take the data to them. Good-bye data monopolies!
+What I am most grateful for nowadays is that I can easily move my data from one company to another. When I moved to the new place, I transferred all my utilities to the new address with a click of a button. I kept my rates and didn't have any headaches for moving my subscriptions from one place to the other.
 
-Now I decide the rules of data processing that affect me. My decisions come on top of a foundational layer of protection that all companies are required to comply with - such as careful design of the data processes, increased security and reducing the data they require to the minimum.
+In case I don't like a company's services anymore, or they change their terms and conditions, I can move to a different company without second thoughts. Data portability allows me to pull all my data from one company and move it to another.
 
-# Reflections
+I think that's very healthy. Smaller companies used to be cut off from the market simply because they couldn’t get enough data and customers. With data portability, this challenge is more manageable. Their major task is to convince people to trust them with their data and not to give them strong reasons to leave.
+
+### Open Hardware
+
+My new apartment was empty when I moved in so I needed furniture. 3D printed furniture is a big thing now. You can find a 3D printing shop literally at almost every corner. I went down to my neighborhood's 3D printing shop to browse their catalogue. I needed an ergonomic desk.
+
+To my surprise, they were not doing only furniture. They have a separate line only for open hardware - anything from kettles, fridges and washing machines to cameras, audio systems and laptops. They were advertising an Open Hardware phone. The guy from the shop showed me how it works. You basically choose all the spare parts you want and they assemble the model for you.
+
+I went ahead and looked at the documentation for all the spare parts. It wasn't easy to understand all the blueprints of the different components and how everything fit together. I tried to make sense of it, but in the end I paid for technical consultancy at the shop before making the order. The phone I ordered is made out of 3D-printed material: it's 100% durable and recyclable material! And it's sooo cheap, I can't believe it! I just became the biggest fan of open hardware! These products are transparent, highly customisable for any privacy needs, sustainable and affordable.
+
+### People's Digitalopoly
+
+Doing some research into this, I found out that the Open Hardware phone was prototyped during a [futurathon](https://mydata2019.org/programme-page/the-first-data-futurathon/). Futurathons are self-organised meetings run by a grassroots movement of engineers, artists, philosophers, journalists, youth, economists, lawyers, policy makers, environmentalists, and LGBTIAQ+. Years back, they started to design different bits and pieces of a new architecture based on strong, enforceable rights over data. Their goal was to design the People's Digitalopoly - a new digital world, which is not based on financial gains, but on social contribution and civic participation. They believed in a model which empowers people with autonomy over data and new ways of looking at our relationship to data.
+
+I was intrigued by their vision and I basically spent the entire rest of the day reading their manifesto. I also discovered some of the first transcripts of their meetings where they were saying that put their bet on the data rights model. They realised very early on that the true potential of the data rights model could only be achieved with open protocols and interoperability. From that time, they spent ten years of hard work to develop the [Web3](https://web3.foundation/) open protocols.
+
+### Big vision: Connect the decentralised with the centralised
+
+Once the protocols were stable and reliable, the big vision was to connect decentralised services among themselves, but also with closed systems. They believed everybody should be able to run their own chat applications, but at the same time to [communicate with others on closed services](https://matrix.org/). The idea was for everything to be possible in the same place, irrespective of the centralised, distributed or decentralised architectures. This left me thinking about how easy it would be for me to use such an interconnected digital ecosystem and what it would mean for the way I live and do business.
+
+# Reflections on Scenario 4
 
 ## Data rights as a comprehensive system of protection
 
