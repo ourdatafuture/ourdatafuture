@@ -4,7 +4,7 @@
 
 *As you step into the time machine with me, I'm also launching an open invitation for you to further engage with this project and help it reach a wider audience.* 
 
-*I need your creative spirit to write a comic book, a song, make an art exhibition, an animation or a short video. If this sounds like something you want to get involved in, drop me an email at [email](mailto:valentinap@privacyinternational.org?subject=Our%20Data%20Future%20]. I’d love to hear your ideas or to pitch you mine ;)*
+*I need your creative spirit to write a comic book, a song, make an art exhibition, an animation or a short video. If this sounds like something you want to get involved in, drop me an email at [valentinap@privacyinternational.org](mailto:valentinap@privacyinternational.org?subject=Our%20Data%20Future%20]. I’d love to hear your ideas or to pitch you mine ;)*
 
 *If you'd like to find out more about my work, I post regularly on [Medium](https://medium.com/@valentina_7678).*
 
@@ -432,7 +432,7 @@ Don’t know exactly what your first step should be? Here are some suggestions:
 
 2. Start a data rights hub in your community. There are a few discussion forums that are dedicated to thinking about what happens next and how to address our data challenges. For example, check out the [My Data community](https://mydata.org/) and the [ResponsibleData.io mailing list](https://lists.theengineroom.org/lists/info/responsible_data) where you can engage in conversations on the themes discussed in the scenarios.
 
-3. Your creative skills are needed for spreading the data discussion more broadly. Reach out to [email](mailto:valentinap@privacyinternational.org?subject=Our%20Data%20Future%20] if you want to contribute to building a toolkit to make it easier for your friends, your neighbours and the world to engage with the topic. We would all benefit from sharing this topic with more communities!
+3. Your creative skills are needed for spreading the data discussion more broadly. Reach out to [valentinap@privacyinternational.org](mailto:valentinap@privacyinternational.org?subject=Our%20Data%20Future%20] if you want to contribute to building a toolkit to make it easier for your friends, your neighbours and the world to engage with the topic. We would all benefit from sharing this topic with more communities!
 
 
 
