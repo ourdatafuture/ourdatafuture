@@ -4,8 +4,8 @@
 
 *As you step into the time machine with me, I'm also launching an open invitation for you to further engage with this project and help it reach a wider audience.* 
 
-*I need your creative spirit to write a comic book, a song, make an art exhibition, an animation or a short video. If this sounds like something you want to get involved in, drop me an email at [valentinap@privacyinternational.org](mailto:valentinap@privacyinternational.org?subject=Our%20Data%20Future%20].* 
-*I’d love to hear your ideas or to pitch you mine ;)*
+*I need your creative spirit to write a comic book, a song, make an art exhibition, an animation or a short video. If this sounds like something you want to get involved in, drop me an email at [valentinap@privacyinternational.org](mailto:valentinap@privacyinternational.org?subject=Our%20Data%20Future%20].
+I’d love to hear your ideas or to pitch you mine ;)*
 
 *If you'd like to find out more about my work, I post regularly on [Medium](https://medium.com/@valentina_7678).*
 
