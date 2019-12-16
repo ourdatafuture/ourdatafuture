@@ -432,7 +432,7 @@ Don’t know exactly what your first step should be? Here are some suggestions:
 
 2. Start a data rights hub in your community. There are a few discussion forums that are dedicated to thinking about what happens next and how to address our data challenges. For example, check out the [My Data community](https://mydata.org/) and the [ResponsibleData.io mailing list](https://lists.theengineroom.org/lists/info/responsible_data) where you can engage in conversations on the themes discussed in the scenarios.
 
-3. Your creative skills are needed for spreading the data discussion more broadly. Reach out to [valentinap@privacyinternational.org](mailto:valentinap@privacyinternational.org?subject=Our%20Data%20Future%20] if you want to contribute to building a toolkit to make it easier for your friends, your neighbours and the world to engage with the topic. We would all benefit from sharing this topic with more communities!
+3. Your creative skills are needed for spreading the data discussion more broadly. Reach out to [valentinap@privacyinternational.org](mailto:valentinap@privacyinternational.org?subject=Our%20Data%20Future%20) if you want to contribute to building a toolkit to make it easier for your friends, your neighbours and the world to engage with the topic. We would all benefit from sharing this topic with more communities!
 
 
 
