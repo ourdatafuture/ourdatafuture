@@ -1,6 +1,6 @@
 *Dear reader,*
 
-*I updated the Our Data Future website on 15 December 2019 to reflect the original post, initially published on 17 July 2019 as part of my Mozilla Fellowship with Privacy International. You can find the original post [here](https://privacyinternational.org/long-read/3088/our-data-future).*
+*An earlier version of this article was published on July 2019 as part of my Mozilla Fellowship with Privacy International. You can find the original post [here](https://privacyinternational.org/long-read/3088/our-data-future).*
 
 *As you step into the time machine with me, I'm also launching an open invitation for you to further engage with this project and help it reach a wider audience.* 
 
