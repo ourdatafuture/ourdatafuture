@@ -2,12 +2,14 @@
     "name": "ourdatafuture",
     "main": "index.js",
     "dependencies": {
-        "@pulumi/gcp": "^5.0.0",
-        "@pulumi/pulumi": "^3.0.0",
         "marked": "^2.0.3",
         "mime": "^2.5.2",
         "mustache": "^4.2.0",
         "parcel": "^2.0.0-nightly.646"
+    },
+    "devDependencies": {
+        "@pulumi/gcp": "^5.0.0",
+        "@pulumi/pulumi": "^3.0.0"
     },
     "targets": {
         "main": false
