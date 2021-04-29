@@ -1,6 +1,6 @@
 # Our Data Future
 
-This repository is hosting the source files for [ourdatafuture.org](ourdatafuture.org).
+This repository is hosting the source files for [ourdatafuture.org](https://ourdatafuture.org).
 
 ## Content contributions
 
