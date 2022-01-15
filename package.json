@@ -2,7 +2,7 @@
     "name": "ourdatafuture",
     "main": "index.js",
     "dependencies": {
-        "marked": "^2.0.3",
+        "marked": "^4.0.10",
         "mime": "^2.5.2",
         "mustache": "^4.2.0",
         "parcel": "^2.0.0-nightly.646"
