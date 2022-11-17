@@ -1,12 +1,12 @@
 *Dear reader,*
 
-*An earlier version of this article was published on July 2019 as part of my Mozilla Fellowship with Privacy International. You can find the original post [here](https://privacyinternational.org/long-read/3088/our-data-future).*
+*An earlier version of this work was published on July 2019 as part of my Mozilla Fellowship with Privacy International. You can find the original post [here](https://privacyinternational.org/long-read/3088/our-data-future).*
 
 *As you step into the time machine with me, I'm also launching an open invitation for you to further engage with this project and help it reach a wider audience.* 
 
-*I need your creative spirit to write a comic book, a song, make an art exhibition, an animation or a short video. If this sounds like something you want to get involved in, drop me an email at [valentinap@privacyinternational.org](mailto:valentinap@privacyinternational.org?subject=Our%20Data%20Future%20). I’d love to hear your ideas or to pitch you mine ;) More on how to get involved in this [MozCast episode](https://soundcloud.com/user-795850239/mozcast-episode-1-our-data-future)!*
+*I need your creative spirit to write a comic book, a song, make an art exhibition, an animation or a short video. If this sounds like something you want to get involved in, drop me an email at [valentina.pavel@pm.me](mailto:valentina.pavel@pm.me?subject=Our%20Data%20Future%20). I’d love to hear your ideas. More on how to get involved in this [MozCast episode](https://soundcloud.com/user-795850239/mozcast-episode-1-our-data-future)!*
 
-*If you'd like to find out more about my work, I post regularly on [Medium](https://medium.com/@valentina_7678).*
+*Read related posts on [Medium](https://medium.com/@valentina_7678).*
 
 
 # Our Data Future
