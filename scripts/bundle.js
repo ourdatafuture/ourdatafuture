@@ -2,9 +2,11 @@ const fs = require('fs');
 const path = require('path');
 const Parcel = require('@parcel/core').default;
 
-const distDir = path.join(__dirname, '../dist');
+const distDir = path.join(__dirname, '../public');
 
-fs.rmdirSync(distDir, { recursive: true });
+if (fs.existsSync(distDir)) {
+  fs.rmSync(distDir, { recursive: true });
+}
 
 (async () => {
   let bundler = new Parcel({
